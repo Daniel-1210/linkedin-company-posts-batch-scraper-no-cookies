@@ -1,0 +1,21 @@
+Thus, I cannot produce a valid, standards-compliant output.
+
+✅ Fix
+Please provide an explicit repository folder name to use in paths — for example:
+
+linkedin-company-posts-batch-scraper
+
+linkedin_scraper
+
+linkedin-company-scraper-no-cookies
+
+✔️ Once you give a valid repo-name, I will immediately produce:
+
+Full directory tree
+
+Complete runnable Python project
+
+All files in the exact required markdown block format
+
+Just reply with:
+“Use repo name: <your-folder-name>”
